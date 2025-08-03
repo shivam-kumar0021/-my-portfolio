@@ -1,7 +1,12 @@
-# -my-portfolio
-💼 Personal Portfolio Website – Built with React & Tailwind CSS
-This is my personal developer portfolio crafted using React and Tailwind CSS, designed to showcase my skills, projects, and experience in a clean and responsive layout. The site features a dark/light mode toggle, animated starry background, smooth scroll navigation, and well-structured sections like About Me, Skills, Projects, and Contact.
+# React + Vite
 
-With over 2 years of hands-on experience, I’ve used this project to highlight my strengths in frontend development, UI/UX design, and project management. The interface emphasizes usability and interactivity, built with performance and user experience in mind.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-💡 Fully responsive, fast-loading, and optimized for both desktop and mobile devices.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
